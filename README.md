@@ -32,8 +32,19 @@ Capture D'écrans :
 
 Connexion
 
+<img src="https://github.com/aubin34/appli-de-chat/blob/master/pageconnexion.png" width="350"/>
+
 Discussion
 
-Option (rester appuyer sur le message)
+<img src="https://github.com/aubin34/appli-de-chat/blob/master/affichageMenuLogout.png" width="350"/>
+
+Options (rester appuyer sur le message)
+
+<img src="https://github.com/aubin34/appli-de-chat/blob/master/menuoption.png" width="350"/>
+
+Modification
+
+<img src="https://github.com/aubin34/appli-de-chat/blob/master/modification.png" width="350"/>
+
 
 

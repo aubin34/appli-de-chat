@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Firebase Chat</string>
+    <string name="name_picker">Choose your username</string>
+    <string name="optionMenu">Settings</string>
+    <string name="Continuer">Continue</string>
+    <string-array name="longClick" >
+        <item>delete</item>
+        <item>modify</item>
+    </string-array>
+</resources>
